@@ -1,0 +1,5 @@
+package com.demo.abstraction;
+
+public abstract class A {
+    abstract void test1();
+}

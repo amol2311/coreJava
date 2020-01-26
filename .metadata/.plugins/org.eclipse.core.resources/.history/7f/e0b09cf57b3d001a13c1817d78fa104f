@@ -1,0 +1,11 @@
+package com.demo.exception;
+
+public class BackendApplication {
+ 
+	
+	public static void send(int destination, String filename, String url) {
+		if(filename.equals("")) {
+			throw new FileNotFoundException();
+		}
+	}
+}

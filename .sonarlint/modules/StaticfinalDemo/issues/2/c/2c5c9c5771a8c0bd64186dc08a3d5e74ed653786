@@ -1,0 +1,13 @@
+
+osquid:S1854"6Remove this useless assignment to local variable "s1".(Τξωÿÿÿÿ8΄ί„ΐψ-HυRMAJORZ
+CODE_SMELL
+osquid:S1854"6Remove this useless assignment to local variable "s2".(ΣΤ±ϊÿÿÿÿ8ττΏψ-HΣRMAJORZ
+CODE_SMELL
+`squid:S1481"'Remove this unused "s2" local variable.(ΣΤ±ϊÿÿÿÿ8ττΏψ-HÒRMINORZ
+CODE_SMELL
+`squid:S1481"'Remove this unused "s1" local variable.(Τξωÿÿÿÿ8΄ί„ΐψ-HτRMINORZ
+CODE_SMELL
+csquid:S1481"*Remove this unused "myArr" local variable.(Ϊ£σ²ϊÿÿÿÿ8νιΑψ-H”RMINORZ
+CODE_SMELL
+rsquid:S1854"9Remove this useless assignment to local variable "myArr".(Ϊ£σ²ϊÿÿÿÿ8νιΑψ-H•RMAJORZ
+CODE_SMELL

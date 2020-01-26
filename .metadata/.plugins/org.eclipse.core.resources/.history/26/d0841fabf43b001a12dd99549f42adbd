@@ -1,0 +1,31 @@
+package com.demo;
+
+public class D implements A,B,C{
+
+	@Override
+	public void footest() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void foo() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void test() {
+		// TODO Auto-generated method stub
+		//go();
+	}
+	
+	public void testme() {
+		
+	}
+	
+	/*public  void go() {
+    	System.out.println("D: go");
+    }*/
+
+}

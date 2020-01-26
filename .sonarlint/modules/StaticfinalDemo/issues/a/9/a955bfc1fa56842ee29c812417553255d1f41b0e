@@ -1,0 +1,15 @@
+
+Gsquid:S1220""Move this file to a named package.H˜RMINORZ
+CODE_SMELL
+’squid:S1171#"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8˜Ü¿ø-HÂRMAJORZ
+CODE_SMELL
+’squid:S1171'"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8˜Ü¿ø-HÃRMAJORZ
+CODE_SMELL
+_squid:S1481-"&Remove this unused "s" local variable.(Ï†ÄÀùÿÿÿÿ8˜Ü¿ø-HÁRMINORZ
+CODE_SMELL
+rsquid:S2696 "6Make the enclosing method "static" or remove this set.(§ãì”ıÿÿÿÿ8˜Ü¿ø-HÀRCRITICALZ
+CODE_SMELL
+squid:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇÚ8˜Ü¿ø-H¿RMINORZ
+CODE_SMELL
+nsquid:S1854-"5Remove this useless assignment to local variable "s".(Ï†ÄÀùÿÿÿÿ8˜Ü¿ø-HÄRMAJORZ
+CODE_SMELL

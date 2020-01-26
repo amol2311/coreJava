@@ -1,0 +1,12 @@
+package com.demo;
+
+public interface A {
+
+	
+	void foo();
+	void test();
+	
+	 default void go() {
+	    	System.out.println("c: go");
+	    }
+}

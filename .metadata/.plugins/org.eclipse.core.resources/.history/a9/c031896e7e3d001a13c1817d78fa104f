@@ -1,0 +1,17 @@
+package com.demo.exception;
+
+import java.io.FileNotFoundException;
+
+public class ExceptionHandlingDemo {
+
+	public static void main(String[] args)  {
+		// TODO Auto-generated method stub
+		try {
+		BackendApplication.send(1, "", "http://abc.test.com");
+		}catch(NullPointerException e) {
+			System.out.println("in main : catch block");
+		}
+	System.out.println("In main : after exception");
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.demo;
+
+public class AbstractA  implements A{
+
+}

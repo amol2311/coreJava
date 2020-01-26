@@ -1,0 +1,10 @@
+package com.demo;
+
+public interface A {
+
+	
+	void foo();
+	//void test();
+	
+	  void go();
+}

@@ -1,0 +1,9 @@
+package com.demo;
+
+public abstract class AbstractA  implements A{
+
+	
+	public void go() {
+    	System.out.println("AbstractA: go");
+    }
+}

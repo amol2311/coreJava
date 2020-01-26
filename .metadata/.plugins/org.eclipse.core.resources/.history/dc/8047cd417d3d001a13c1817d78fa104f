@@ -1,0 +1,12 @@
+package com.demo.exception;
+
+import java.io.FileNotFoundException;
+
+public class ExceptionHandlingDemo {
+
+	public static void main(String[] args) throws FileNotFoundException{
+		// TODO Auto-generated method stub
+		BackendApplication.send(1, "", "http://abc.test.com");
+	}
+
+}

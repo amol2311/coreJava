@@ -1,0 +1,9 @@
+
+msquid:S1118":Add a private constructor to hide the implicit public one.(Ò“ù8ä÷©ÿü-HÓRMAJORZ
+CODE_SMELL
+ksquid:S1172"2Remove this unused method parameter "destination".(Þ»ä¨üÿÿÿÿ8ŠÝ‡‚ý-HÏRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½‘Ñ³8Ì°Õÿü-HåRMAJORZ
+CODE_SMELL
+É%squid:RedundantThrowsDeclarationCheck"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(Þ»ä¨üÿÿÿÿ8¡öŸ‚ý-HóRMINORZ
+CODE_SMELL

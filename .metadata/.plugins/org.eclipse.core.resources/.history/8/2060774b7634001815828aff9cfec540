@@ -1,0 +1,19 @@
+
+public class TestJdk8 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		B b =  new B(2);
+		B b1 =  new B(2);
+		System.out.println(b.hashCode());
+	}
+	
+
+}
+final class B{
+	final int a;
+	public B(int a) {
+		this.a=a;
+	}
+}

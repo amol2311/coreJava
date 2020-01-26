@@ -1,0 +1,23 @@
+package com.demo.exception;
+
+import java.io.FileNotFoundException;
+
+public class BackendApplication {
+ 
+	
+	public static void send(int destination, String filename, String url) throws FileNotFoundException {
+		/*try {
+		if(filename.equals("")) {
+			throw new FileNotFoundException();
+		}}catch(FileNotFoundException e) {
+			System.out.println("filenotfoundexception occured");
+		}*/
+		try {
+		if(filename.equals("")) {
+			throw new FileNotFoundException();
+		}}catch(FileNotFoundException e) {
+			throw e;
+		}
+		
+	}
+}
