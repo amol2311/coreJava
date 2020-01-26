@@ -1,7 +1,0 @@
-package com.demo.exception;
-
-public class BackendApplication {
- 
-	
-	public static void send(int destination, String url, String msg)
-}

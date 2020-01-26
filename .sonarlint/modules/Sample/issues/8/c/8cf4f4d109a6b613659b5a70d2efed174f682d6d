@@ -1,17 +1,0 @@
-
-ƒsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ë®ÎÃüÿÿÿÿ8àÒö¾½,H~RMAJORZ
-CODE_SMELL
-psquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¦ÇŒ¾½,HRMINORZ
-CODE_SMELL
-†squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™‹ç8²¥Ç¾½,H€RMINORZ
-CODE_SMELL
-ssquid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8²¥Ç¾½,HRMINORZ
-CODE_SMELL
-„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÌÂ´«þÿÿÿÿ8àÒö¾½,H‚RMAJORZ
-CODE_SMELL
-qsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¦ÇŒ¾½,HƒRMINORZ
-CODE_SMELL
-“squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÇŠÊå8²¥Ç¾½,H„RMAJORZ
-CODE_SMELL
-Gsquid:S1220""Move this file to a named package.H…RMINORZ
-CODE_SMELL

@@ -1,8 +1,0 @@
-
-|squid:UnusedPrivateMethodB"5Remove this unused private "infoLossTypeCast" method.(…¥Ê’øÿÿÿÿ8ã“ÿõò-H†RMAJORZ
-CODE_SMELL
-„squid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(¨åŠÉüÿÿÿÿ8õýêõò-H‡RMAJORZ
-CODE_SMELL
-„squid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(çåø¼ÿÿÿÿÿ8ã“ÿõò-HˆRMAJORZ
-CODE_SMELL
-osquid:S2184:"BCast one of the operands of this division operation to a "double".(È„Áˆ8å¬„öò-H‰RMINORZBUG

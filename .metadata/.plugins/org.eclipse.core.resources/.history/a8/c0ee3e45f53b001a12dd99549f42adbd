@@ -1,9 +1,0 @@
-package com.demo;
-
-public interface C extends A{
-    void footest();
-    
-    default void go() {
-    	System.out.println("c: go");
-    }
-}

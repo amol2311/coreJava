@@ -1,5 +1,0 @@
-package com.demo.interfaces;
-
-public class B implements MyInterface2{
-
-}

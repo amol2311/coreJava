@@ -1,15 +1,0 @@
-
-squid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(½‘Ñ³8†íÕý-HºRMAJORZ
-CODE_SMELL
-squid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(úº²Ð8­˜ö€ý-HØRMAJORZ
-CODE_SMELL
-csquid:S1481#"*Remove this unused "myArr" local variable.(ÕôÝ†þÿÿÿÿ8­˜ö€ý-HÙRMINORZ
-CODE_SMELL
-\squid:S1481'"(Remove this unused "obj" local variable.(¼æÁ³8¸ºú€ý-HàRMINORZ
-CODE_SMELL
-rsquid:S1854#"9Remove this useless assignment to local variable "myArr".(ÕôÝ†þÿÿÿÿ8­˜ö€ý-HÛRMAJORZ
-CODE_SMELL
-squid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(Ä¼¾8¸ºú€ý-HßRMAJORZ
-CODE_SMELL
-squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½‘Ñ³8î´ë€ý-HÀRMAJORZ
-CODE_SMELL

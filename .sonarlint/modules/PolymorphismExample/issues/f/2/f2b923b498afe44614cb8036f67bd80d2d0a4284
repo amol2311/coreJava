@@ -1,13 +1,0 @@
-
-„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÓÝŠ¼øÿÿÿÿ8Ü±¾áú-HÕ
-RMAJORZ
-CODE_SMELL
-¡"squid:ClassVariableVisibilityCheck"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ8ìš–àú-HÑ
-RMINORZVULNERABILITY
-ž"squid:ClassVariableVisibilityCheck"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8Àè¼áú-HÔ
-RMINORZVULNERABILITY
-hsquid:S1066"/Merge this if statement with the enclosing one.(Õ´ÅÍøÿÿÿÿ8ËœÅáú-HÐ
-RMAJORZ
-CODE_SMELL
-‚squid:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(Ý¢êÍýÿÿÿÿ8ËœÅáú-HÒ
-RMINORZBUG

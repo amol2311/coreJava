@@ -1,20 +1,0 @@
-
-csquid:S1068"1Remove this unused "privateMember" private field.(œÏ¦ºÿÿÿÿÿHÚ
-RMAJORZ
-CODE_SMELL
-…squid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(œÏ¦ºÿÿÿÿÿH×
-RMINORZ
-CODE_SMELL
-€squid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ì½“²HÙ
-RMINORZ
-CODE_SMELL
-Ÿ"squid:ClassVariableVisibilityCheck"XMake publicMember a static final constant or non-public and provide accessors if needed.(ì½“²HÜ
-RMINORZVULNERABILITY
-bsquid:S1444"2Make this "public static publicMember" field final(ì½“²HÛ
-RMINORZVULNERABILITY
-…squid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÈŸø¼ùÿÿÿÿHØ
-RMINORZ
-CODE_SMELL
-nsquid:S1118":Add a private constructor to hide the implicit public one.(¦É¯8²Â—Óû-Hô
-RMAJORZ
-CODE_SMELL

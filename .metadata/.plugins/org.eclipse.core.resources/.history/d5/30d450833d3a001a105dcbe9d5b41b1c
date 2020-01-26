@@ -1,5 +1,0 @@
-package com.demo.abstraction;
-
-public class C extends B{
-
-}

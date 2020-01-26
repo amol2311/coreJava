@@ -1,7 +1,0 @@
-package com.demo.interfaces;
-
-public interface MyInterface2 {
-
-	
-	void add();
-}
